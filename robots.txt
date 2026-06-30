@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elvero-ss1994.github.io/content-lib/sitemap.xml
